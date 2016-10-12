@@ -1,0 +1,11 @@
+div.intro {
+  font-style: italic;
+  color: red;
+}
+.body {
+  line-height: 15px;
+  color: #323199;
+}
+.about {
+  font-size: 40pt;
+}
